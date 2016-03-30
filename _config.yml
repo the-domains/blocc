@@ -1,0 +1,28 @@
+name: blocc
+favicon: null
+layout_spectrum: 0.7834962976630777
+typography_spectrum: 0.42151207220740616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.01902046357281506
+  lightness: 0.9104701147880405
+  saturation: 0.6247257262002677
+  rhythmicContrast: 0.04839559807442129
+purpose: []
