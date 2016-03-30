@@ -1,28 +1,38 @@
-name: blocc
 favicon: null
-layout_spectrum: 0.7834962976630777
-typography_spectrum: 0.42151207220740616
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: blocc
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.01902046357281506
-  lightness: 0.9104701147880405
-  saturation: 0.6247257262002677
-  rhythmicContrast: 0.04839559807442129
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6272401
+  brandStrength: 1
+  lightness: 0.8727599
+  brandColors:
+    - '#C5C7C6'
+    - '#141418'
+    - '#777777'
+  rhythmicContrast: 0.2150538
+typography_spectrum: 0
+layout_spectrum: 0.4820789
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
