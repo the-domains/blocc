@@ -1,9 +1,28 @@
-favicon: null
-name: blocc
+typography_spectrum: 0
+color:
+  saturation: 0.6272401
+  brandStrength: 1
+  lightness: 0.8727599
+  brandColors:
+    - '#C5C7C6'
+    - '#141418'
+    - '#777777'
+  rhythmicContrast: 0.2150538
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4820789
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: blocc
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,23 +35,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: musivisual production
 purpose: []
-color:
-  saturation: 0.6272401
-  brandStrength: 1
-  lightness: 0.8727599
-  brandColors:
-    - '#C5C7C6'
-    - '#141418'
-    - '#777777'
-  rhythmicContrast: 0.2150538
-typography_spectrum: 0
-layout_spectrum: 0.4820789
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
