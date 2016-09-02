@@ -17,7 +17,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: ' '
+name: ' blocc'
 cta:
   bucket: null
   version: null
@@ -36,5 +36,5 @@ collections:
       format: rss
       number: 10
 title: blocc
-description: musivisual production
+description: 'music, sound, audiotech, audiovisual'
 purpose: []
